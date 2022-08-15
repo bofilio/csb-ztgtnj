@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bofilio.github.io/csb-ztgtnj/static/css/main.4298da69.chunk.css",
+    "main.js": "https://bofilio.github.io/csb-ztgtnj/static/js/main.81809ac9.chunk.js",
+    "main.js.map": "https://bofilio.github.io/csb-ztgtnj/static/js/main.81809ac9.chunk.js.map",
+    "runtime-main.js": "https://bofilio.github.io/csb-ztgtnj/static/js/runtime-main.68d9f8bc.js",
+    "runtime-main.js.map": "https://bofilio.github.io/csb-ztgtnj/static/js/runtime-main.68d9f8bc.js.map",
+    "static/js/2.8ea78fee.chunk.js": "https://bofilio.github.io/csb-ztgtnj/static/js/2.8ea78fee.chunk.js",
+    "static/js/2.8ea78fee.chunk.js.map": "https://bofilio.github.io/csb-ztgtnj/static/js/2.8ea78fee.chunk.js.map",
+    "index.html": "https://bofilio.github.io/csb-ztgtnj/index.html",
+    "static/css/main.4298da69.chunk.css.map": "https://bofilio.github.io/csb-ztgtnj/static/css/main.4298da69.chunk.css.map",
+    "static/js/2.8ea78fee.chunk.js.LICENSE.txt": "https://bofilio.github.io/csb-ztgtnj/static/js/2.8ea78fee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68d9f8bc.js",
+    "static/js/2.8ea78fee.chunk.js",
+    "static/css/main.4298da69.chunk.css",
+    "static/js/main.81809ac9.chunk.js"
+  ]
+}
